@@ -1,6 +1,16 @@
-# fitnessflutterproject
-flutter project following youtube tutorial
+# fitness
 
-https://www.youtube.com/watch?v=D4nhaszNW4o
+A new Flutter project.
 
-github says there's way too many files being uploaded so i'll hold off
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutte r app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
