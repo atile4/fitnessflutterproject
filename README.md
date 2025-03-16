@@ -1,6 +1,8 @@
 # fitness
 
-A new Flutter project.
+A new Flutter project.  (Following Youtube Tutorial.)
+
+To be honest the only important stuff really is in the lib, assets, and .yaml folders.
 
 ## Getting Started
 
